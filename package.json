@@ -1,0 +1,26 @@
+{
+  "name": "frontendmentor",
+  "version": "1.0.0",
+  "description": "Proyectos de Frontent Mentor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saucedoinfo/frontendmentor.git"
+  },
+  "keywords": [
+    "frontendmentor"
+  ],
+  "author": "Fernando Saucedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saucedoinfo/frontendmentor/issues"
+  },
+  "homepage": "https://github.com/saucedoinfo/frontendmentor#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap": "^5.0.0-beta3"
+  }
+}
